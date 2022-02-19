@@ -1,0 +1,8 @@
+git init - Inicializa o git no diretório
+git add - Adiciona um arquivo ao git
+git mv - Move um arquivo para uma pasta
+git push - Empurra o repositório para o servidor remoto
+git pull - Puxa o repositório para o servidor local
+git config --global user.name "seu nome de usuário" - Configura sua credencial
+git config --global user.email "seu email" - Configura seu email
+git commit -m "descrição"- cria um commit com descrição
